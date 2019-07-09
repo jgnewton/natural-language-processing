@@ -3,7 +3,7 @@
 import os
 import shutil
 import requests
-from common import tqdm_utils
+import tqdm_utils
 
 
 REPOSITORY_PATH = "https://github.com/hse-aml/natural-language-processing"
